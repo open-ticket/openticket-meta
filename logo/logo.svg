@@ -37,9 +37,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="536.04329"
-     inkscape:cy="416.64988"
+     inkscape:zoom="0.7"
+     inkscape:cx="346.96665"
+     inkscape:cy="254.56908"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,7 +68,9 @@
      style="filter:url(#filter4616)">
     <g
        id="g4546"
-       transform="matrix(1.2438552,0,0,1.2438552,-39.814288,-65.457377)">
+       transform="matrix(1.2438552,0,0,1.2438552,-39.814288,-65.457377)"
+       inkscape:export-xdpi="193.97"
+       inkscape:export-ydpi="193.97">
       <path
          id="rect4518"
          transform="matrix(0.26458333,0,0,0.26458333,0,26.06665)"
@@ -86,7 +88,7 @@
              height="70"
              width="4.2857141"
              id="rect4497" /></flowRegion><flowPara
-           id="flowPara4499"></flowPara></flowRoot>      <flowRoot
+           id="flowPara4499" /></flowRoot>      <flowRoot
          transform="matrix(2.4518232,0,0,2.4518232,-62.541979,-437.58975)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot4501"
@@ -97,7 +99,7 @@
              height="405.71429"
              width="487.14285"
              id="rect4505" /></flowRegion><flowPara
-           id="flowPara4507"></flowPara></flowRoot>      <text
+           id="flowPara4507" /></flowRoot>      <text
          id="text4516"
          y="176.44083"
          x="136.97806"
